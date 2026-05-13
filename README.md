@@ -34,7 +34,6 @@ The dashboard closely follows the provided Figma design and integrates with the 
 - Empty state handling
 - Loading states
 - Error handling
-- Feedback flow with LocalStorage
 - Global theme styling (no hardcoded design inconsistency)
 
 ---
