@@ -6,7 +6,7 @@ https://hintro-dashboard-pi.vercel.app/
 ---
 
 ## GitHub Repository
-
+https://github.com/polokrf/Hintro-Dashboar.git
 
 ---
 
